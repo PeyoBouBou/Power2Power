@@ -1,0 +1,17 @@
+<Configuration>
+	<SyncItems>
+		<SyncItem name="DEV">
+			<OutputPath>D:\MCS\CrmTfsSync\Temp\DEV</OutputPath>
+			<Crm>
+				<ConnectionString>Url=https://devpro.rubiccs.rexel.fr</ConnectionString>
+				<Solutions>
+					<Solution name="RexelMCS" />
+				</Solutions>
+			</Crm>
+			<Tfs>
+				<CollectionUrl>http://10.102.107.218:8080/tfs</CollectionUrl>
+				<WorkSpaceFolder>D:\MCS\Sources\Branchs\Main\Crm\Solutions</WorkSpaceFolder>
+			</Tfs>
+		</SyncItem>
+	</SyncItems>
+</Configuration>
