@@ -26,7 +26,7 @@ This setup process is documented to use the Windows PowerShell ISE application. 
    2. If you receive a "`Not authorized`" or "`Login Failed`" message try clearing your browser  cache and attempt to login again.
 
 3. Navigate to the **My Environments** tab then select your location under the Select tenant location  option. 
-   ![image-20240130104502567](D:\repos\git\Power2Power\MakeAppInADayEnv\Doc\img\image-20240130104502567.png)
+   ![image-20240130104502567](.\img\image-20240130104502567.png)
 
    ​	What you select here will later impact the PowerShell script you run at the end of these steps.
 
@@ -42,9 +42,9 @@ This setup process is documented to use the Windows PowerShell ISE application. 
 2. First, unassign the 20 Microsoft Office licenses from the accounts that were created by default  when the tenant was setup.
    1. In the left navigation, select **Billing** then **Licenses**. 
    2. Select **Microsoft 365 E5** from the list of subscriptions
-      ![image-20240130104935691](D:\repos\git\Power2Power\MakeAppInADayEnv\Doc\img\image-20240130104935691.png)
+      ![image-20240130104935691](.\img\image-20240130104935691.png)
    3. **Select all** of the licenses currently assigned (total of 20) and then choose **Unassign  licenses**. You may need to repeat this step if there are any renaming licenses still  assigned.
-      ![image-20240130105003821](D:\repos\git\Power2Power\MakeAppInADayEnv\Doc\img\image-20240130105003821.png)
+      ![image-20240130105003821](.\img\image-20240130105003821.png)
 3. Next you will assign either the **Power Apps Premium** or **Power Automate Premium** license  depending on the class you are delivering:
    1. In the left navigation, select **Billing** then **Purchase services**. 
    2. **<u>For App in a Day:</u>** Use the product category search and type "`Power Apps`" and select  Details under the **Power Apps Premium** product. Click **Start free trial** and provide the  information needed for the trial sign up.
