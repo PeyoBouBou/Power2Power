@@ -6,7 +6,7 @@
   <!-- <a href="https://makeappinadayenv.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">MakeAppInADayEnv</h1>
+<h1 align="center">Make Workshop Environement</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/makeappinadayenv?color=56BEB8">
